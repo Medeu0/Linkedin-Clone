@@ -1,2 +1,5 @@
 # Linkedin-Clone
-[Посмотреть сайт](https://medeu0.github.io/Linkedin-Clone/)
+## 🌐 Демо
+
+👉 [Сайт проекта](https://medeu0.github.io/Linkedin-Clone/)
+
